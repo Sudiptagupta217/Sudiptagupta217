@@ -2,7 +2,7 @@
 <h1 align="center">I'm Sudipta Gupta</h1>
 
 <div align="center">
-### Find me here - 
+ <h2> Find me here -  </h2>
 <a href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
