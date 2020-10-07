@@ -5,7 +5,7 @@
  <h3> Find me here - </h3>
 <a href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a><br>
 <a href="mailto:sudiptagupta217@gmail.com">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
