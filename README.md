@@ -11,7 +11,7 @@
 <a href="https://twitter.com/sudiptagupta217" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="sudiptagupta217@gmail.com/?hl=en" target="_blank">
+<a href="mailto:sudiptagupta217@gmail.com/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a> 
 </div>  
