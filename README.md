@@ -10,9 +10,9 @@
 - 👯 I’m looking to collaborate on any Android Projects
 - 🔭 I’m currently working to learn advanced android skills
 
-<div></div>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sudiptagupta217&show_icons=true&hide_border=false" />
+ 
+ <div></div>
  
  <div>
  
