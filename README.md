@@ -2,7 +2,9 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sudiptagupta217&show_icons=true&hide_border=false" />
- <h3 align="right"> Find me here - </h3>
+ 
+ <h3 > Find me here - </h3>
+ 
 <a href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
   <img align="right" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
