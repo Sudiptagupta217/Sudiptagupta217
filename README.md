@@ -3,7 +3,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sudiptagupta217&show_icons=true&hide_border=false" />
  
- <h3 > Find me here - </h3>
+ <h3 align="right" > Find me here - </h3>
  
  <div>
  
