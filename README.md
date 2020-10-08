@@ -5,7 +5,7 @@
  
  <h3 > Find me here - </h3>
  
- <div display:floatinf>
+ <div display:"float">
 <a href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
   <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
