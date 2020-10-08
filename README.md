@@ -1,4 +1,4 @@
-<h2>Hi there, I'm <a  href="https://github.com/Sudiptagupta217">Sudipta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hi there, I'm <a  href="https://github.com/Sudiptagupta217">Sudipta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sudiptagupta217&show_icons=true&hide_border=false" />
