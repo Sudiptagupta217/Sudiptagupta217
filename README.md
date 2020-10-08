@@ -1,5 +1,7 @@
 <h2 align="center">Hi there, I'm <a  href="https://github.com/Sudiptagupta217">Sudipta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+<div></div>
+
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
 - 💬 Ask me about **Android Dev & Open Source**
@@ -8,6 +10,7 @@
 - 👯 I’m looking to collaborate on any Android Projects
 - 🔭 I’m currently working to learn advanced android skills
 
+<div></div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sudiptagupta217&show_icons=true&hide_border=false" />
  
