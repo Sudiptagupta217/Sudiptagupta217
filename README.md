@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Android Dev & Open Source**
 - 👨‍💻 All of my projects are available at https://github.com/sudiptagupta217
-- 📫 How to reach me: **sudiptagupta217@gmail.com**
+- 📫 How to reach me: [github] (https://github.com/Sudiptagupta217)
 - 👯 I’m looking to collaborate on any Android Projects
 - 🔭 I’m currently working to learn advanced android skills
 
