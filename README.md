@@ -13,7 +13,7 @@
  
  <div>
  
- <h3 align="right" > Find me here - </h3>
+ <h2 align="right" > Find me here - </h2>
  
 <a href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
   <img align="right" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
