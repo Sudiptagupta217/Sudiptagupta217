@@ -6,16 +6,22 @@
  <h3 > Find me here - </h3>
  
  <div>
+ 
 <a href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
-  <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <div></div>
+
 <a href="mailto:sudiptagupta217@gmail.com">
-  <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="right" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
 <div></div>
+
 <a href="https://twitter.com/sudiptagupta217">
-  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
 </div>
 
