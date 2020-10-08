@@ -13,8 +13,6 @@
  
  <div>
  
- <h2 align="center" > Connect with me </h2>
- 
 <a href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
   <img align="right" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -30,6 +28,6 @@
 <a href="https://twitter.com/sudiptagupta217">
   <img align="right" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
+ <h2 align="center" > Connect with me </h2>
 </div>
 
