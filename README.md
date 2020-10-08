@@ -13,23 +13,22 @@
  
  <div>
  
- 
- <h2 align="right" > ####Find me here - </h2>
+ <h2 align="right" > Find me here - </h2>
  
 <a href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
-  <img align="right" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <div></div>
 
 <a href="mailto:sudiptagupta217@gmail.com">
-  <img align="right" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <div></div>
 
 <a href="https://twitter.com/sudiptagupta217">
-  <img align="right" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 </div>
