@@ -11,7 +11,7 @@
 ## Tech Stack
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="60" padding-left: 10px height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
 </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sudiptagupta217&show_icons=true&hide_border=false" />
@@ -20,11 +20,11 @@
   <h3 align="center" > Connect with me </h3>
  
 <a href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="mailto:sudiptagupta217@gmail.com">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <a href="https://twitter.com/sudiptagupta217">
