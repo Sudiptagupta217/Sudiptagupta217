@@ -9,7 +9,7 @@
 - 🔭 I’m currently working to learn advanced android skills
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sudiptagupta217&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sudiptagupta217&show_icons=true&hide_border=false" />
  
  <div>
  
@@ -22,13 +22,13 @@
 <div></div>
 
 <a href="mailto:sudiptagupta217@gmail.com">
-  <img align="right" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <div></div>
 
 <a href="https://twitter.com/sudiptagupta217">
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 </div>
