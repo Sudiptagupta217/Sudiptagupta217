@@ -14,7 +14,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60"/>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sudiptagupta217&show_icons=true&hide_border=false" />
  
  <div>
   <h3 align="center" > Connect with me </h3>
@@ -27,7 +26,9 @@
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
+<a href="https://twitter.com/sudiptagupta217">
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 </div>
 
