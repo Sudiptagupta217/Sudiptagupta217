@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm <a  href="https://github.com/Sudiptagupta217">Sudipta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hi there, I'm <a  href="https://github.com/Sudiptagupta217">Sudipta Gupta</a></h2>
 
 <img align="right"  alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="350px" />
 
