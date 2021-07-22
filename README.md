@@ -19,15 +19,15 @@
  ## Connect with me 
  
 <a  href="https://www.linkedin.com/in/sudipta-gupta-58407b119/">
-  <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <kbd><img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></kbd>
 </a> &nbsp
 
 <a href="mailto:sudiptagupta217@gmail.com">
-  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+ <kbd> <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></kbd>
 </a> &nbsp
 
 <a href="https://twitter.com/sudiptagupta217">
-  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+ <kbd> <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></kbd>
 </a> 
  
 
